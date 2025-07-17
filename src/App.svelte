@@ -11,7 +11,7 @@
         "https://mybobbin.com/storage/photo/resized/xy_1300x1000/c/25jieewin008xxe_a9660fb.jpg",
       title: "Diamond Painting",
       description:
-        "I love diamond painting! My last painting was a 22 x 28 inch landscape of a balcony overlooking the sea.",
+        "I love diamond painting. My last painting was a 22 x 28 inch landscape of a balcony overlooking the sea.",
     },
     {
       image: "https://i.scdn.co/image/ab6765630000ba8a4a2f177477ecd05b6f5be8e0",
